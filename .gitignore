@@ -1,0 +1,7 @@
+### Python template
+# Byte-compiled / optymized / DDL files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/produts.json
